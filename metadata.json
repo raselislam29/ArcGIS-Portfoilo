@@ -1,0 +1,6 @@
+{
+  "name": "Spatial Data Portfolio",
+  "description": "A clean, modern portfolio showcasing ArcGIS Online projects and interactive spatial data visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
